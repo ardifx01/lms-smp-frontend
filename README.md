@@ -8,7 +8,7 @@
 </p>
 Ini adalah antarmuka pengguna (frontend) untuk aplikasi **Learning Management System (LMS) SMP Digital**. Dibangun menggunakan **Next.js** dan ditata dengan **Tailwind CSS**, aplikasi ini menyediakan pengalaman pengguna yang modern, responsif, dan interaktif untuk semua fitur LMS.
 
-Frontend ini sepenuhnya terpisah dari backend dan berkomunikasi melalui API RESTful yang disediakan oleh [**Backend Laravel**](https://github.com/fadillrr/lms-smp-backend) (ganti dengan link repo backend Anda).
+Frontend ini sepenuhnya terpisah dari backend dan berkomunikasi melalui API RESTful yang disediakan oleh [**Backend Laravel**](https://github.com/fadillrr/lms-smp-backend).
 
 ---
 

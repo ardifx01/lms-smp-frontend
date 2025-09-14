@@ -4,13 +4,7 @@
 
 <h1 align="center">LMS SMP Digital - Frontend</h1>
 <p align="center">
-  <img src="./public/lmslogin.png" width="200" alt="Logo SMP Digital">
-</p>
-<p align="center">
-  <img src="./public/lmsdasboard1.png" width="200" alt="Logo SMP Digital">
-</p>
-<p align="center">
-  <img src="./public/lmsdasboard2.png" width="200" alt="Logo SMP Digital">
+
 </p>
 Ini adalah antarmuka pengguna (frontend) untuk aplikasi **Learning Management System (LMS) SMP Digital**. Dibangun menggunakan **Next.js** dan ditata dengan **Tailwind CSS**, aplikasi ini menyediakan pengalaman pengguna yang modern, responsif, dan interaktif untuk semua fitur LMS.
 
@@ -33,7 +27,7 @@ Berikut adalah beberapa contoh tampilan dari aplikasi LMS SMP Digital.
 
 | Halaman Login | Dashboard Murid | Halaman Profil |
 | :---: | :---: | :---: |
-| ![Login Page](./public/screenshots/login.png) | ![Dashboard Murid](./public/screenshots/dashboard.png) | ![Profil Page](./public/screenshots/profil.png) |
+| ![Login Page](./public/lmslogin.png) | ![Dashboard Murid](./public/lmsdasboard2.png) | ![Dashboard Guru](./public/lmsdasboard1.png) |
 
 *(**Catatan:** Anda perlu membuat folder `screenshots` di dalam folder `public` dan menyimpan screenshot aplikasi Anda di sana agar gambar-gambar di atas muncul).*
 

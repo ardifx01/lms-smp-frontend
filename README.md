@@ -8,7 +8,7 @@
 </p>
 Ini adalah antarmuka pengguna (frontend) untuk aplikasi **Learning Management System (LMS) SMP Digital**. Dibangun menggunakan **Next.js** dan ditata dengan **Tailwind CSS**, aplikasi ini menyediakan pengalaman pengguna yang modern, responsif, dan interaktif untuk semua fitur LMS.
 
-Frontend ini sepenuhnya terpisah dari backend dan berkomunikasi melalui API RESTful yang disediakan oleh [**Backend Laravel**](https://github.com/fadillrr/lms-smp-backend).
+Frontend ini sepenuhnya terpisah dari backend dan berkomunikasi melalui API RESTful yang disediakan oleh [**Backend Laravel**](https://github.com/ardifx01/lms-smp-backend).
 
 ---
 
@@ -56,7 +56,7 @@ Berikut adalah cara untuk menjalankan proyek ini di lingkungan development lokal
 1.  **Clone Repositori**
     Buka terminal, masuk ke direktori kerja Anda, lalu clone proyek ini:
     ```bash
-    git clone [https://github.com/fadillrr/lms-smp-frontend.git](https://github.com/fadillrr/lms-smp-frontend.git)
+    git clone [https://github.com/ardifx01/lms-smp-frontend.git](https://github.com/ardifx01/lms-smp-frontend.git)
     cd lms-smp-frontend
     ```
 
